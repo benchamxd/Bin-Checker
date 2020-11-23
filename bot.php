@@ -1,8 +1,8 @@
 <?php
 /*
-BY:- @BenchamXD
+BY:- @Godof_Hackers
 
-CHANNEL:- @IndusBots
+CHANNEL:- @Cyber_stock_official
 */
 error_reporting(0);
 
@@ -95,7 +95,7 @@ bot('sendmessage', [
 }
 }
 /*
-BY:- @BenchamXD
+BY:- @Godof_Hackers
 
-CHANNEL:- @IndusBots
+CHANNEL:- @Cyber_stock_official
 */
