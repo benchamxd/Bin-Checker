@@ -21,9 +21,6 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 
 ``/bin xxxxx - To Check the bin``
 
-## HELP ME
-
-For any type of help on deploy. Contact us on [FREE PREMIUM ACCOUNTS](https://t.me/qwertspremiumaccount).
 
 
 ##
